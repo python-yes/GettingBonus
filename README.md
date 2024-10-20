@@ -1,4 +1,4 @@
-# GettingBonus
+## Авто  сбор бонусов в "Дурак Онлайн"
 ---
 Приложение: **[Android](https://play.google.com/store/apps/details?id=com.rstgames.durak&hl=en_US)**, **[iOS](https://apps.apple.com/us/app/durak-online-card-game/id891825663)**
 
